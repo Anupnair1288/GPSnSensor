@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_182538670328e8359696a9a6dc7bde2a8341c852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3c9316cc587c561380a101cc55f80f3b7d412477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_87ad8d56f122604d5896505ea6044ddd4deacd89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ceae4d94bfa3d1b4a2800527bdbccc8157853d3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_20e0cadfd30aa0e09b6dcc93d0ad6f8befc1acbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_0b2ac6286a3a6cfafd1768ccaed4b66c1458bd12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_4277e223b4335dd9fcf8a4c128c73f01e5d52597\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_5307d36b122faa445ee8485245d0c8e6ee79506e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_c9f0b208f4ef209f6d01be33fc89a77c77207f54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_1e368e5a60f1bf220b7ab7d3078a4a5f44dd411b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0cee5df7a8a9808446e0ca07130d6cf77c152170">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3394201b76b3ce04392be6b33dd9ec1fd1f789fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_2139301dfc972211c1cfd98de895a08aba8d3557\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_48f976a20159d6e8ab2262f4250a40fdad25b3d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_8d850dc480139dadcdf087b764194ab56b9ea6a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_edb6a13a11df2e88068d4487ca9e94b376ba623d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_e0ca02547b99be4dd1854441a02ff31af9355a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fff2aa5a348572882afb95b3f3ab2be8f505d18d">
+        <dex dex="C:\Users\Anup\Downloads\GPSnSensor\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8890c802ef36a1ad30d55a4f6f2779fde14a1ff\classes.dex" />
+    </item>
+
+</items>
